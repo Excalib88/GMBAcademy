@@ -1,0 +1,7 @@
+db.lock
+*sqlite3
+*.suo
+*bin
+*obj
+*Debug
+*.dtbcache
