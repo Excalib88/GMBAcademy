@@ -5,3 +5,4 @@ db.lock
 *obj
 *Debug
 *.dtbcache
+**node_modules
