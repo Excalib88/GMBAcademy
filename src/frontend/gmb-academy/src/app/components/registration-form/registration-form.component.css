@@ -1,0 +1,9 @@
+.registration-form {
+    width: 100%;
+    padding: 20px;
+    max-width: 500px;
+}
+
+.input-full-width {
+    width: 100%;
+}

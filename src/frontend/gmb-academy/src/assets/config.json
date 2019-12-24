@@ -1,0 +1,7 @@
+{
+    "webApiUrls": {
+      "BaseUrl": "http://localhost:5000/api",
+      "GetCustomer": "/customer",
+      "CreateCustomer": "/customer"
+    }
+}
