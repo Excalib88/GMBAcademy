@@ -1,0 +1,23 @@
+.top-middle {
+    margin:0;
+    background-color: #f1e7bb;
+    height: 160px;
+}
+
+.body-middle {
+    height: 3240px;
+}
+
+.text-block {
+    padding: 20px;
+    border: 4px solid gray;
+    border-radius: 15px 15px;
+}
+
+.buy-lesson {
+    display: flex;
+}
+
+.experience {
+    display: flex;
+}

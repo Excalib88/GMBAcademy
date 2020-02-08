@@ -1,0 +1,29 @@
+.header {
+    background-color: #f1e7bb;
+    height: 2000px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nav {
+    margin: 0;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+}
+
+ul {
+    padding: 0;
+    width: 100%;
+}
+
+li {
+    list-style-type: none;
+}
+
+.learn-programming {
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+}
+.learn-programming button {
+    color: white;
+}
