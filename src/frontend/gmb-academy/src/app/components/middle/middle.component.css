@@ -1,23 +1,99 @@
 .top-middle {
-    margin:0;
-    background-color: #f1e7bb;
-    height: 160px;
+  max-height: 770px;
+  height: 100%;
+  width: 100%;
+  margin-top: -120px;
 }
-
-.body-middle {
-    height: 3240px;
+.middle h4{
+  margin-top: 140px;
+  text-align: center;
+  font-size: 45px;
+  font-family: Montserrat-Medium, sans-serif;
 }
-
-.text-block {
-    padding: 20px;
-    border: 4px solid gray;
-    border-radius: 15px 15px;
+.th-keek {
+  position: absolute;
+  margin-top: 430px;
+  right: 40px;
 }
-
-.buy-lesson {
-    display: flex;
+.th-nee {
+  margin-bottom: 100px;
 }
-
-.experience {
-    display: flex;
+.th-boxed {
+  max-width: 400px;
+  width: 100%;
+}
+.th-boxed > img {
+  margin-bottom: 70px;
+  max-width: 280px;
+  height: 210px;
+}
+.th-content {
+  max-width: 1200px;
+  padding-top: 110px;
+  width: 100%;
+}
+.th-boxed > span {
+  max-width: 400px;
+  width: 100%;
+  font-size: 20px;
+  color: #010101;
+  text-align: center;
+}
+.th-sold h5 {
+  margin-top: 140px;
+  font-weight: 400;
+  font-size: 45px;
+}
+.th-cl {
+  margin-left: 50px;
+}
+.th-left-circle {
+  height: 540px;
+  position: relative;
+}
+.th-ct {
+  margin-left: 34px;
+}
+.th-boxed-info {
+  max-width: 600px;
+  width: 100%;
+  box-shadow: 4px 4px 16px rgba(0, 0, 0, 0.25);
+}
+.th-boo {
+  max-width: 1320px;
+  width: 100%;
+  margin: auto
+}
+.th-soo {
+  width: 100%;
+}
+.th-sold > img {
+  margin: 70px 0;
+}
+.th-sold h5 > span {
+  font-weight: 800;
+}
+.th-boxed-info {
+  margin-bottom: 170px;
+}
+.th-boxed-info h6 {
+  max-width: 300px;
+  text-align: center;
+  background-color: #6027ae;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  padding: 20px 0;
+  font-size: 30px;
+  margin: 40px auto;
+}
+.th-boxed-info ul {
+  font-size: 20px;
+  padding: 0 0 80px 65px;
+}
+.th-boxed-info ul li {
+  max-width: 360px;
+  margin-bottom: 35px;
+}
+.th-kell > h6{
+background-color: #bad8f1;
 }

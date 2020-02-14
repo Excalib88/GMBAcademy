@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29230.47
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GMBAcademy.Web", "src\backend\GMBAcademy.Web\GMBAcademy.Web.csproj", "{CAF8AA92-A500-4600-A6B3-178E6477C7E3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GMBAcademy.Web", "GMBAcademy.Web\GMBAcademy.Web.csproj", "{CAF8AA92-A500-4600-A6B3-178E6477C7E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GMBAcademy.DataAccess", "src\backend\GMBAcademy.DataAccess\GMBAcademy.DataAccess.csproj", "{FE74C7A8-796E-484A-A603-B8EBFF08EF0C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GMBAcademy.DataAccess", "GMBAcademy.DataAccess\GMBAcademy.DataAccess.csproj", "{FE74C7A8-796E-484A-A603-B8EBFF08EF0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GMBAcademy.Domain", "src\backend\GMBAcademy.Domain\GMBAcademy.Domain.csproj", "{86674757-7553-40BD-838E-F970322D2A5E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GMBAcademy.Domain", "GMBAcademy.Domain\GMBAcademy.Domain.csproj", "{86674757-7553-40BD-838E-F970322D2A5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GMBAcademy.DataAccess.Migrations", "src\backend\GMBAcademy.DataAccess.Migrations\GMBAcademy.DataAccess.Migrations.csproj", "{B802D73B-156D-4BEF-8693-6B7C48ABC114}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GMBAcademy.DataAccess.Migrations", "GMBAcademy.DataAccess.Migrations\GMBAcademy.DataAccess.Migrations.csproj", "{B802D73B-156D-4BEF-8693-6B7C48ABC114}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,0 +1,85 @@
+.works h4{
+  margin-top: 140px;
+  text-align: center;
+  font-size: 45px;
+  font-family: Montserrat-Medium, sans-serif;
+}
+.works img{
+  margin: 100px 0;
+}
+.th-boxed-info {
+  max-width: 600px;
+  width: 100%;
+  box-shadow: 4px 4px 16px rgba(0, 0, 0, 0.25);
+}
+.th-right-circle {
+  height: 750px;
+  position: relative;
+}
+.th-keek {
+  position: absolute;
+  margin-top: 430px;
+  right: 40px;
+}
+.th-boxed-info ul {
+  margin-top: 35px;
+}
+.sesian {
+  color: #5b0aca;
+  font-size: 25px;
+  padding: 0 0 35px 65px;
+  font-family: Montserrat-Light, sans-serif;
+}
+.th-cl {
+  position: absolute;
+  top: 700px;
+}
+.th-cle {
+  position: absolute;
+  top: 500px;
+  left: 20px;
+}
+.th-left-circle {
+  height: 540px;
+  position: relative;
+}
+.th-wk {
+  width: 100%;
+}
+.th-price {
+  font-size: 50px;
+  color: #5b0aca;
+  font-family: Montserrat-Medium, sans-serif;
+}
+
+.th-boo {
+  max-width: 1320px;
+  width: 100%;
+  margin: auto;
+}
+.th-soo {
+  width: 100%;
+}
+.th-sold h5 > span {
+  font-weight: 800;
+}
+.th-boxed-info {
+  margin-bottom: 170px;
+}
+.th-boxed-info h6 {
+  max-width: 300px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  padding: 20px 0;
+  font-size: 30px;
+  margin: 40px 65px;
+}
+.th-boxed-info ul {
+  font-size: 20px;
+  padding: 0 0 80px 65px;
+}
+.th-boxed-info ul li {
+  max-width: 360px;
+  font-family: Montserrat-Medium, sans-serif;
+  margin-bottom: 35px;
+}

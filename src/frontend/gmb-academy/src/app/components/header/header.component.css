@@ -1,9 +1,60 @@
-.header {
-    background-color: #f1e7bb;
-    height: 2000px;
-    font-family: 'Montserrat', sans-serif;
+header {
+  background: url("../../../assets/fon-header.jpg") center no-repeat;
+  font-family: 'Montserrat', sans-serif;
+  height: 100%;
+  max-height: 1080px;
+}
+.th-header {
+  max-width: 1500px;
+  width: 100%;
+  padding-top: 30px;
+  margin: auto;
+}
+.th-nav {
+  color: #ffffff;
+  font-size: 20px;
+}
+.learn-programming p {
+  max-width: 660px;
+  color: #ffffff;
+  text-align: center;
+  margin: 45px 0;
+  font-size: 26px;
+}
+.th-boxed span {
+  margin-top: 60px;
+  max-width: 550px;
+  font-size: 35px;
+  text-align: center;
+  font-family: Montserrat, sans-serif;
+}
+h5 {
+  font-size: 55px;
+  font-weight: 400;
+  color: #ffffff;
+  font-family: Montserrat, sans-serif;
+}
+.th-sold {
+  margin-top: 150px;
+}
+.th-sold span{
+  font-family: 'Montserrat-ExtraBold', sans-serif;
+}
+.th-boxed a{
+color: #3aa6c9;
 }
 
+.learn-programming h5 {
+  max-width: 800px;
+  text-align: center;
+  width: 100%;
+  font-size: 65px;
+  font-family: 'Montserrat-ExtraBold', sans-serif;
+  font-weight: 800;
+}
+.th-header li:not(:last-child){
+  margin-right: 50px;
+}
 .nav {
     margin: 0;
     height: 100px;
@@ -19,11 +70,20 @@ ul {
 li {
     list-style-type: none;
 }
-
+.th-box-info {
+  max-width: 1500px;
+  width: 100%;
+  margin: auto;
+}
 .learn-programming {
-    font-family: 'Montserrat', sans-serif;
-    font-size: large;
+  font-family: 'Montserrat', sans-serif;
+  height: 100%;
+  font-size: large;
 }
 .learn-programming button {
-    color: white;
+  background-color: #ffffff;
+  color: #000000;
+  border-radius: 36px;
+  padding: 20px 40px;
+  font-size: 21px;
 }

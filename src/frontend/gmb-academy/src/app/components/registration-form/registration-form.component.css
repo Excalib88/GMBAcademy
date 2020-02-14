@@ -1,9 +1,34 @@
 .registration-form {
-    width: 100%;
-    padding: 20px;
-    max-width: 500px;
+  width: 100%;
+  max-height: 580px;
+  height: 100%;
+  background: url("../../../assets/expen.png") center no-repeat;
 }
-
+.registration-form h2{
+  color: #010101;
+  padding: 25px 0 35px 0;
+  text-align: center;
+}
+form mat-form-field {
+  max-width: 280px;
+   width: 100%;
+}
+form button{
+  margin-bottom: 26px;
+  margin-top: 5px;
+}
+button {
+  background-color: #bad8f1;
+}
+form {
+  border-radius: 2px;
+  margin: auto;
+  width: 100%;
+  max-width: 800px;
+  background-color: #ffffff;
+}
+.mat-form-field-appearance-fill .mat-form-field-flex {
+  background: rgba(0, 255, 255, .5);
+}
 .input-full-width {
-    width: 100%;
 }

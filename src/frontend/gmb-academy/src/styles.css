@@ -2,3 +2,61 @@
 
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+*{text-decoration: none;}
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700,800&display=swap&subset=cyrillic,cyrillic-ext,latin-ext,vietnamese');
+
+@font-face {
+  font-family: 'Montserrat-ExtraBold';
+  src: url('assets/Montserrat-ExtraBold.ttf');
+}
+@font-face {
+  font-family: 'Montserrat-Medium';
+  src: url('assets/Montserrat-Medium.ttf');
+}
+@font-face {
+  font-family: 'Montserrat-Light';
+  src: url('assets/Montserrat-Light.ttf');
+}
+@font-face {
+  font-family: 'Montserrat';
+  src: url('assets/Montserrat-Regular.ttf');
+}
+* {
+  margin: 0;
+  outline: none;
+  padding: 0;
+  list-style: none;
+}
+.flex {
+  display: flex;
+}
+.flex_d_c {
+  flex-direction: column;
+}
+.f_w {
+  flex-wrap: wrap;
+}
+.J_c {
+  justify-content: center;
+}
+.J_s {
+  justify-content: flex-start;
+}
+.J_e {
+  justify-content: flex-end;
+}
+.J_sb {
+  justify-content: space-between;
+}
+.J_sa {
+  justify-content: space-around;
+}
+.A_c {
+  align-items: center;
+}
+.A_s {
+  align-items: flex-start;
+}
+.A_e {
+  align-items: flex-end;
+}
